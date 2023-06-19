@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5dc0ff0f.css",
+    "main.js": "/static/js/main.42228471.js",
+    "static/js/27.80b3dded.chunk.js": "/static/js/27.80b3dded.chunk.js",
+    "static/media/materialdesignicons-webfont.eot": "/static/media/materialdesignicons-webfont.53f53f50a1b2033979f5.eot",
+    "static/media/materialdesignicons-webfont.ttf?v=5.9.55": "/static/media/materialdesignicons-webfont.0e4e0b3da55fa7faa77b.ttf",
+    "static/media/materialdesignicons-webfont.woff?v=5.9.55": "/static/media/materialdesignicons-webfont.d8e8e0f7931afa097409.woff",
+    "static/media/materialdesignicons-webfont.woff2?v=5.9.55": "/static/media/materialdesignicons-webfont.e9db4005489e24809b62.woff2",
+    "static/media/about-img.jpg": "/static/media/about-img.6deaa9309814e4b1b131.jpg",
+    "static/media/Pe-icon-7-stroke.svg?d7yf1v": "/static/media/Pe-icon-7-stroke.09c6a96523589cb91799.svg",
+    "static/media/features-bg-effect.png": "/static/media/features-bg-effect.9c74badcb4502271cdbf.png",
+    "static/media/security-icon.png": "/static/media/security-icon.cf64829db3c2dc3b6015.png",
+    "static/media/Pe-icon-7-stroke.eot": "/static/media/Pe-icon-7-stroke.1d449ea50ab8389ee078.eot",
+    "static/media/Pe-icon-7-stroke.woff?d7yf1v": "/static/media/Pe-icon-7-stroke.11f7c073b050d62afb33.woff",
+    "static/media/Pe-icon-7-stroke.ttf?d7yf1v": "/static/media/Pe-icon-7-stroke.7233a7aee250f9b77fba.ttf",
+    "static/media/footer-bg.png": "/static/media/footer-bg.4fa646e4a652770dc6ee.png",
+    "static/media/home-2-bg.png": "/static/media/home-2-bg.e74a5beee052680d051a.png",
+    "static/media/bg-light-about.png": "/static/media/bg-light-about.3193fefb89903f744dc7.png",
+    "static/media/bg-about.png": "/static/media/bg-about.3e8750175aa33f09adea.png",
+    "static/media/logo.png": "/static/media/logo.b04bd9def250c31299a1.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.5dc0ff0f.css",
+    "static/js/main.42228471.js"
+  ]
+}
