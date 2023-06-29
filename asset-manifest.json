@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.5dc0ff0f.css",
-    "main.js": "/static/js/main.c841c7d0.js",
+    "main.js": "/static/js/main.b3548705.js",
     "static/js/27.80b3dded.chunk.js": "/static/js/27.80b3dded.chunk.js",
     "static/media/materialdesignicons-webfont.eot": "/static/media/materialdesignicons-webfont.53f53f50a1b2033979f5.eot",
     "static/media/materialdesignicons-webfont.ttf?v=5.9.55": "/static/media/materialdesignicons-webfont.0e4e0b3da55fa7faa77b.ttf",
     "static/media/materialdesignicons-webfont.woff?v=5.9.55": "/static/media/materialdesignicons-webfont.d8e8e0f7931afa097409.woff",
     "static/media/materialdesignicons-webfont.woff2?v=5.9.55": "/static/media/materialdesignicons-webfont.e9db4005489e24809b62.woff2",
-    "static/media/about-img.jpg": "/static/media/about-img.6deaa9309814e4b1b131.jpg",
+    "static/media/inspect-scam.jpg": "/static/media/inspect-scam.6deaa9309814e4b1b131.jpg",
     "static/media/Pe-icon-7-stroke.svg?d7yf1v": "/static/media/Pe-icon-7-stroke.09c6a96523589cb91799.svg",
     "static/media/features-bg-effect.png": "/static/media/features-bg-effect.9c74badcb4502271cdbf.png",
     "static/media/security-icon.png": "/static/media/security-icon.cf64829db3c2dc3b6015.png",
@@ -23,6 +23,6 @@
   },
   "entrypoints": [
     "static/css/main.5dc0ff0f.css",
-    "static/js/main.c841c7d0.js"
+    "static/js/main.b3548705.js"
   ]
 }
