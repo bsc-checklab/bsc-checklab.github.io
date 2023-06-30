@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5dc0ff0f.css",
-    "main.js": "/static/js/main.a9cc76e1.js",
+    "main.js": "/static/js/main.826914d1.js",
     "static/js/27.80b3dded.chunk.js": "/static/js/27.80b3dded.chunk.js",
     "static/media/materialdesignicons-webfont.eot": "/static/media/materialdesignicons-webfont.53f53f50a1b2033979f5.eot",
     "static/media/materialdesignicons-webfont.ttf?v=5.9.55": "/static/media/materialdesignicons-webfont.0e4e0b3da55fa7faa77b.ttf",
@@ -23,6 +23,6 @@
   },
   "entrypoints": [
     "static/css/main.5dc0ff0f.css",
-    "static/js/main.a9cc76e1.js"
+    "static/js/main.826914d1.js"
   ]
 }
